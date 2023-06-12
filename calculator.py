@@ -9,7 +9,6 @@ def get_test_name():
 
 class Calculator:
     set_function_count = 0
-    
     test_name = ''
 
     def __init__(self):
